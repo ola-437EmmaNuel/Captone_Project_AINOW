@@ -248,10 +248,11 @@ See `requirements.txt` for complete list with versions.
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+
+- GitHub:ola-437EmmaNuel
+- (https://github.com/ola-437EmmaNuel)
+
+- Email: oluwapelumie005@gmail.com
 
 ---
 
@@ -263,8 +264,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- Dataset provided by [Insurance Company/Organization Name]
-- Project requirements and guidance from [Course/Institution Name]
+- Dataset provided by [AINOW Instructors]
+- Project requirements and guidance from [AINOW Intructors, course track and vibe coding with Claude]
 - Inspiration from various Kaggle competitions and data science projects
 
 ---
@@ -272,8 +273,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 For questions, suggestions, or collaboration opportunities, please reach out via:
-- **GitHub Issues**: [Create an issue](https://github.com/yourusername/insurance-claim-prediction/issues)
-- **Email**: your.email@example.com
+- **GitHub Issues**: [Create an issue](https://github.com)/ola-437EmmaNuel/insurance-claim-prediction/issues)
+- **Email**: oluwapelumie005@gmail.com
 
 ---
 
